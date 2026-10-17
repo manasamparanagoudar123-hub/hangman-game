@@ -42,4 +42,3 @@ A terminal-based Hangman game built in Python. Guess the hidden word one letter 
 - Functions and modular code
 - User input validation
 
-## Author
